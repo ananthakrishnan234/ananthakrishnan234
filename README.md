@@ -34,8 +34,8 @@ A passionate **backend-first Java Full Stack Developer** who builds production-q
 | 🏗️ Building | 📈 Highlight | 🛠️ Stack |
 |:---|:---:|:---|
 | 🎬 **CineScope** — Movie Review Platform | `53 files · 8.5/10 quality` | Spring Boot 3.5 · React 19 · MongoDB Atlas |
-| 💼 **Job Listing App** — AI-Powered Job Board | `50+ jobs · AI-powered` | Spring Boot · React · Claude API |
-| 🧠 **Quiz API** — Production REST API | `20% faster queries` | Java · Spring Boot · PostgreSQL |
+| 💼 **Job Listing App** — AI-Powered Job Board | `100+ jobs · AI-powered` | Spring Boot · React · Claude API |
+| 🧠 **Quiz API** — Production REST API | `faster queries` | Java · Spring Boot · PostgreSQL |
 
 </div>
 

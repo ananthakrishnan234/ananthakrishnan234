@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-A passionate **backend-first Java Full Stack Developer** who builds production-quality Spring Boot REST APIs and polished React.js frontends — end to end, from API design to UI. I've shipped applications with **JWT auth, MongoDB Atlas, PostgreSQL, Swagger docs, Bean Validation, and global exception handling**, going beyond *"it works"* to *"it's done properly."* Fresh 2024 CS graduate from Kerala, ready to engineer real-world solutions at scale.
+A passionate **backend-first Java Full Stack Developer** who builds production-quality Spring Boot REST APIs and polished React.js frontends end to end, from API design to UI. I've shipped applications with **JWT auth, MongoDB Atlas, PostgreSQL, Swagger docs, Bean Validation, and global exception handling**, going beyond *"it works"* to *"it's done properly."* Fresh BTech Computer Science Engineering graduate from Kerala, ready to engineer real-world solutions at scale.
 
 ---
 
@@ -118,11 +118,11 @@ A passionate **backend-first Java Full Stack Developer** who builds production-q
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananthakrishnan234&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://your-stats-app.vercel.app/api?username=ananthakrishnan234&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ananthakrishnan234&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnan234&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://your-stats-app.vercel.app/api/top-langs/?username=ananthakrishnan234&theme=dark&hide_border=false&layout=compact)
 
 </div>
 

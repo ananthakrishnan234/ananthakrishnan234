@@ -1,0 +1,18 @@
+# 💫 About Me:
+An Aspiring full-stack Java developer graduated in BTech in Computer Science Engineering  based in Kerala, India.<br><br>I build full-stack applications using Java, Spring Boot, React.js, MongoDB, and PostgreSQL, with Bootstrap for styling on the frontend. Right now I'm focused on writing clean, production-grade backend code; REST APIs, service layers, JWT authentication, and database design, while sharpening my problem-solving skills one project at a time.<br><br>As a fresher, I'm big on learning by building. Each of my projects is an attempt to go a step beyond "it works" toward "it's done properly", proper exception handling, DTOs, and API documentation included.<br><br>🔭 Currently building: CineScope (Spring Boot 3.5 + React 19 + MongoDB Atlas), a Job Listing App, and a Quiz API with PostgreSQL<br>🌱 Currently learning: scalable application design, testing practices, and deployment workflows (Vercel + Render)<br>💬 Ask me about: Spring Boot, REST APIs, MongoDB/PostgreSQL, or React<br>⚡ Fun fact: I'm actively job hunting for a fresher full-stack Java developer role, always open to opportunities!
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananthakrishnan234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananthakrishnans234@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ananthakrishnan234 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ananthakrishnan234 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ananthakrishnan234 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ananthakrishnan234 &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

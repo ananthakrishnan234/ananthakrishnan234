@@ -83,10 +83,10 @@ A passionate **backend-first Java Full Stack Developer** who builds production-q
 
 | Project | What Makes It Stand Out | Tech Stack |
 |:---|:---|:---|
-| 🎬 [**CineScope — Movie Review App**](https://github.com/ananthakrishnan234/CineScope-Fullstack-App) | JWT auth with refresh tokens & Spring Security · star ratings, watchlist & paginated reviews · optimized MongoDB aggregations · Swagger docs | `Spring Boot 3.5` `React 19` `MongoDB Atlas` `JWT` |
-| 💼 [**Fullstack Job Listing App**](https://github.com/ananthakrishnan234/Fullstack-Joblisting-App) | AI job-description enhancer via **Claude API** · advanced search, filters & bookmarks · analytics dashboard · full DTO + service layer | `Spring Boot` `React` `MongoDB` `Claude API` |
-| 🧠 [**Spring Boot Quiz API**](https://github.com/ananthakrishnan234/springboot-quiz-api) | JWT + role-based access control · Bean Validation & global exception handling · AI hint engine · **20% faster** PostgreSQL queries | `Java` `Spring Boot` `PostgreSQL` `JPA` `Maven` |
-| 🍹 [**Cocktail Explorer**](https://github.com/ananthakrishnan234/Cocktail-Explorer-React) | Real-time search by name/ingredient · robust error & loading states · **30% UX improvement** · responsive Bootstrap 5 SPA | `React` `JavaScript` `Fetch API` `Bootstrap` |
+| 🎬 [**CineScope — Movie Review App**](https://github.com/ananthakrishnan234/CineScope-Fullstack-App) | 🌐 [Live Demo](https://cine-scope-fullstack-app.vercel.app/) | JWT auth with refresh tokens & Spring Security · star ratings, watchlist & paginated reviews · optimized MongoDB aggregations · Swagger docs | `Spring Boot 3.5` `React 19` `MongoDB Atlas` `JWT` |
+| 💼 [**Fullstack Job Listing App**](https://github.com/ananthakrishnan234/Fullstack-Joblisting-App) | 🌐 [Live Demo](https://fullstack-joblisting-app.vercel.app/) | AI job-description enhancer via **Claude API** · advanced search, filters & bookmarks · analytics dashboard · full DTO + service layer | `Spring Boot` `React` `MongoDB` `Claude API` |
+| 🧠 [**Spring Boot Quiz API**](https://github.com/ananthakrishnan234/springboot-quiz-api) | 📖 [Swagger UI](https://springboot-quiz-api-1.onrender.com/swagger-ui/index.html) | JWT + role-based access control · Bean Validation & global exception handling · **20% faster** PostgreSQL queries | `Java` `Spring Boot` `PostgreSQL` `JPA` `Maven` |
+| 🍹 [**Cocktail Explorer**](https://github.com/ananthakrishnan234/Cocktail-Explorer-React) | 🌐 [Live Demo](https://cocktail-explorer-react.vercel.app/) | Real-time search by name/ingredient · robust error & loading states · **30% UX improvement** · responsive Bootstrap 5 SPA | `React` `JavaScript` `Fetch API` `Bootstrap` |
 | ☕ **Java OOP Mini Projects** | ATM Machine, Calculator, Song Playlist (CRUD), Music Player & Tic Tac Toe — solid OOP fundamentals | `Core Java` `OOP` |
 
 ---
@@ -148,7 +148,7 @@ Whether it's a fresher Java Full Stack role, a collaboration, or just talking Sp
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ananthakrishnan234&color=6DB33F&style=flat)
 
-**`< Ananthu />`** — Java Full Stack Developer · Thrissur, Kerala, India
+**`< Ananthakrishnan />`** — Java Full Stack Developer · Thrissur, Kerala, India
 
 *⭐ If my projects help you, a star goes a long way!* · Last updated: August 2026
 

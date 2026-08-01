@@ -146,7 +146,6 @@ Whether it's a fresher Java Full Stack role, a collaboration, or just talking Sp
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ananthakrishnan234&color=6DB33F&style=flat)
 
 **`< Ananthakrishnan />`** — Java Full Stack Developer · Thrissur, Kerala, India
 

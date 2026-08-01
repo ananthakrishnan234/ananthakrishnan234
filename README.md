@@ -1,5 +1,5 @@
 # 💫 About Me:
-An Aspiring full-stack Java developer graduated in BTech in Computer Science Engineering  based in Kerala, India.<br><br>I build full-stack applications using Java, Spring Boot, React.js, MongoDB, and PostgreSQL, with Bootstrap for styling on the frontend. Right now I'm focused on writing clean, production-grade backend code; REST APIs, service layers, JWT authentication, and database design, while sharpening my problem-solving skills one project at a time.<br><br>As a fresher, I'm big on learning by building. Each of my projects is an attempt to go a step beyond "it works" toward "it's done properly", proper exception handling, DTOs, and API documentation included.<br><br>🔭 Currently building: CineScope (Spring Boot 3.5 + React 19 + MongoDB Atlas), a Job Listing App, and a Quiz API with   PostgreSQL<br>🌱 Currently learning: scalable application design, testing practices, and deployment workflows (Vercel + Render)<br>💬 Ask me about: Spring Boot, REST APIs, MongoDB/PostgreSQL, or React<br>⚡ Fun fact: I'm actively job hunting for a fresher full-stack Java developer role, always open to opportunities!
+An Aspiring full-stack Java developer graduated in BTech in Computer Science Engineering  based in Kerala, India.<br><br>I build full-stack applications using Java, Spring Boot, React.js, MongoDB, and PostgreSQL, with Bootstrap for styling on the frontend. Right now I'm focused on writing clean, production-grade backend code; REST APIs, service layers, JWT authentication, and database design, while sharpening my problem-solving skills one project at a time.<br><br>As a fresher, I'm big on learning by building. Each of my projects is an attempt to go a step beyond "it works" toward "it's done properly", proper exception handling, DTOs, and API documentation included.<br><br>🔭 Currently building: CineScope (Spring Boot 3.5 + React 19 + MongoDB Atlas), a Job Listing App, and a Quiz API with PostgreSQL<br>🌱 Currently learning: scalable application design, testing practices, and deployment workflows (Vercel + Render)<br>💬 Ask me about: Spring Boot, REST APIs, MongoDB/PostgreSQL, or React<br>⚡ Fun fact: I'm actively job hunting for a fresher full-stack Java developer role, always open to opportunities!
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@ An Aspiring full-stack Java developer graduated in BTech in Computer Science Eng
 ![](https://github-readme-stats.shion.dev/api?username=ananthakrishnan234 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ananthakrishnan234 &theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ananthakrishnan234 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ananthakrishnan234 &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=ananthakrishnan234 &icon=0&color=0)](https://visitcount.itsvg.in)

@@ -109,8 +109,9 @@ A passionate **backend-first Java Full Stack Developer** who builds production-q
 | Certification | Issuer | Status |
 |:---|:---|:---:|
 | ☕ [Oracle Java Foundations](https://www.coursera.org/account/accomplishments/verify/TY3W92KI0ZF2) | Oracle Academy · Coursera | ✅ Verified |
-| 🌐 Web Development Certification | IBM SkillsBuild · Coursera | ✅ Verified |
-| 🖥️ HP Software Engineering Simulation | Forage | ✅ Completed |
+| 🌐 [Web Development Certification](https://www.coursera.org/account/accomplishments/verify/DLVONJCWPES5) | IBM SkillsBuild · Coursera | ✅ Verified |
+| 🌐 [Spring Framework for Java Development](https://www.coursera.org/account/accomplishments/verify/OSWN17WQGU5E) | IBM SkillUp · Coursera | ✅ Verified |
+| 🖥️ [HP Software Engineering Simulation](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_68c2c79d81edf82e826e61eb_1781707591525_completion_certificate.pdf) | Forage | ✅ Completed |
 
 ---
 
